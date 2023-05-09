@@ -9,8 +9,8 @@
 2. AMAL P G
 3. AMEESH ILLIAS M V
 4. ANANTHA KRISHNAN P.V
-5. ASWIN P S
-6. ASWIN.V.U
+5. [ASWIN P S](https://github.com/aswinkichuzzz/kichuzzz/blob/main/kunnamkkulam.md)
+6. 6. ASWIN.V.U
 7. ATHUL.P.RAJEEV
 8. DAKSH AJITH
 9. [DEVANA K D](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/Index.md)
